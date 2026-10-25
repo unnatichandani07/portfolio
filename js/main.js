@@ -1,6 +1,6 @@
 /* ===== EDIT HERE: the only place links need to be set ===== */
 const CONFIG = {
-  RESUME_URL: "RESUME_URL_HERE",   // replace with the real resume URL
+  RESUME_URL: "https://drive.google.com/file/d/1fuq8RojKMMGySfv2cQPAHldQ7E_1T0Yx/view?usp=drive_link",   // replace with the real resume URL
   RESUME_DOWNLOAD: false,          // true makes "View Resume" download the file instead
   links: { gatyaDemo:"https://gatya-upmw.onrender.com/", pixelproofDemo:"https://pixelproof-wx3m.onrender.com", pixelproofCode:"", internshipCertificate:"" } // "" = not set yet
 };
